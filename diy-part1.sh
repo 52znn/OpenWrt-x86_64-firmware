@@ -17,4 +17,4 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git kiddin9 https://github.com/kiddin9/openwrt-packages' >>feeds.conf.default
-#echo 'src-git small-5 https://github.com/small-5/Openwrt-Compile/tree/master/Small_5/package/ipk' >>feeds.conf.default
+echo 'src-git 52znn https://github.com/52znn/packages.git' >>feeds.conf.default
